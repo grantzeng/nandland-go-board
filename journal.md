@@ -1,0 +1,2 @@
+### 2024-02-04 Sunday 5:50pm 
+Possible _write_ Python code to generate Verilog/VHD files, if say for example you wanted to implement an entire CPU on the bloody thing and didn't want to type out repetitive things?
